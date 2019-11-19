@@ -2,7 +2,7 @@
 
 #### 项目介绍
 使用gitee搭建自己的一个图床！本地也能保存一份，防止数据丢失！
-图床首页： http://dufyun.gitee.io/images_bed
+图床首页： https://jackymxp.gitee.io/image-bed
 
 #### 软件架构
 软件架构说明
